@@ -1,0 +1,1 @@
+import{a as n,b as m,c}from"./chunk-JJIG6WU2.js";import{a as r}from"./chunk-EIFPAVDW.js";import{D as l}from"./chunk-COM2WMQK.js";import{c as i}from"./chunk-FS5K6CIJ.js";var d=o=>{var e=o,{children:s}=e,a=i(e,["children"]);let t=a.level?n(`h${a.level}`):m`div`;return r(a.key,c`<${t} class=${l(a.class)}>${s}</${t}>`)};export{d as a};

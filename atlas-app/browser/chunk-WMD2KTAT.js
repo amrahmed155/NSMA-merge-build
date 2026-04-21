@@ -1,0 +1,1 @@
+import{a as s,b as i}from"./chunk-EUSGTSHC.js";var e=class e{};e.instance=new i("Etc/UTC");var t=e;function o(n){return n instanceof s?n===t.instance:n?.toString().toLowerCase()==="unknown"}function c(n){return o(n)?t.instance:n}export{t as a,o as b,c};

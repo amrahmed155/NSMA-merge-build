@@ -1,0 +1,1 @@
+import{z as e}from"./chunk-BSSVXCYA.js";function a(i){return i[i.openProp||"open"]}async function s(i){await i.updateComplete,a(i)?i.onBeforeOpen():i.onBeforeClose(),await i.updateComplete,i.transitionEl&&await e(i.transitionEl,i.transitionProp),a(i)?i.onOpen():i.onClose()}export{s as a};

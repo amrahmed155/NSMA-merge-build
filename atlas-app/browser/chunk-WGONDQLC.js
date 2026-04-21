@@ -1,0 +1,1 @@
+import{c as a}from"./chunk-OUVPDPXL.js";import{ia as i}from"./chunk-6KGMGEKL.js";function u(e){let t="metric";if(e==null)return t;let r=e.map,n=(r&&"portalItem"in r?r.portalItem?.portal:null)??a.getDefault();switch(n.user?.units??n.units){case t:return t;case"english":return"imperial"}return i(e.spatialReference)??t}export{u as a};

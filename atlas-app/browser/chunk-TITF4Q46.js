@@ -1,0 +1,1 @@
+import{K as o,M as s}from"./chunk-YPHTQ4OO.js";import{E as r}from"./chunk-HDNVIJTY.js";import{a as e}from"./chunk-WNSZCIFR.js";var t=class extends s{constructor(p){super(p),this.enabled=!1}};e([o({type:Boolean,nonNullable:!0})],t.prototype,"enabled",void 0),t=e([r("esri.views.interactive.sketch.SketchLabelOptions")],t);var b=t;export{b as a};
